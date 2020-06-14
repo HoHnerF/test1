@@ -8,4 +8,10 @@ package javaa;
  * @Description: todo
  */
 public class B {
+    public static void main(String[] args) {
+        System.out.println("sdsd");
+        System.out.println("sdsd");
+        System.out.println("sdsd");
+        System.out.println("sdsd");
+    }
 }
