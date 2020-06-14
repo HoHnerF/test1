@@ -1,12 +1,10 @@
 package java;
 
-import java.sql.SQLOutput;
-
 /**
  * @BelongsProject: he
  * @BelongsPackage: java
  * @Author: gwj
- * @CreateTime: 2020-06-14 19:57
+ * @CreateTime: 2020-06-14 1957
  * @Description: todo
  */
 public class hello {
